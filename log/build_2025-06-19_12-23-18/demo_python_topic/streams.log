@@ -1,0 +1,23 @@
+[0.496s] Invoking command in '/home/zhou/chapt3/topic_ws/src/demo_python_topic': PYTHONPATH=/home/zhou/chapt3/topic_ws/src/build/demo_python_topic/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/zhou/chapt3/topic_ws/src/install/demo_python_topic/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/demo_python_topic build --build-base /home/zhou/chapt3/topic_ws/src/build/demo_python_topic/build install --record /home/zhou/chapt3/topic_ws/src/build/demo_python_topic/install.log --single-version-externally-managed install_data
+[0.671s] running egg_info
+[0.671s] writing ../build/demo_python_topic/demo_python_topic.egg-info/PKG-INFO
+[0.671s] writing dependency_links to ../build/demo_python_topic/demo_python_topic.egg-info/dependency_links.txt
+[0.672s] writing entry points to ../build/demo_python_topic/demo_python_topic.egg-info/entry_points.txt
+[0.672s] writing requirements to ../build/demo_python_topic/demo_python_topic.egg-info/requires.txt
+[0.672s] writing top-level names to ../build/demo_python_topic/demo_python_topic.egg-info/top_level.txt
+[0.673s] reading manifest file '../build/demo_python_topic/demo_python_topic.egg-info/SOURCES.txt'
+[0.673s] adding license file 'LICENSE'
+[0.674s] writing manifest file '../build/demo_python_topic/demo_python_topic.egg-info/SOURCES.txt'
+[0.674s] running build
+[0.674s] running build_py
+[0.674s] running install
+[0.674s] running install_lib
+[0.675s] running install_data
+[0.675s] copying package.xml -> /home/zhou/chapt3/topic_ws/src/install/demo_python_topic/share/demo_python_topic
+[0.675s] running install_egg_info
+[0.676s] removing '/home/zhou/chapt3/topic_ws/src/install/demo_python_topic/lib/python3.10/site-packages/demo_python_topic-0.0.0-py3.10.egg-info' (and everything under it)
+[0.677s] Copying ../build/demo_python_topic/demo_python_topic.egg-info to /home/zhou/chapt3/topic_ws/src/install/demo_python_topic/lib/python3.10/site-packages/demo_python_topic-0.0.0-py3.10.egg-info
+[0.678s] running install_scripts
+[0.694s] Installing novel_pub_node script to /home/zhou/chapt3/topic_ws/src/install/demo_python_topic/lib/demo_python_topic
+[0.695s] writing list of installed files to '/home/zhou/chapt3/topic_ws/src/build/demo_python_topic/install.log'
+[0.722s] Invoked command in '/home/zhou/chapt3/topic_ws/src/demo_python_topic' returned '0': PYTHONPATH=/home/zhou/chapt3/topic_ws/src/build/demo_python_topic/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/zhou/chapt3/topic_ws/src/install/demo_python_topic/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/demo_python_topic build --build-base /home/zhou/chapt3/topic_ws/src/build/demo_python_topic/build install --record /home/zhou/chapt3/topic_ws/src/build/demo_python_topic/install.log --single-version-externally-managed install_data
